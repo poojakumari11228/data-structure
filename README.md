@@ -1,2 +1,2 @@
 # data-structure
-Data Structure Problems
+Data Structure and Algorithms Problems
